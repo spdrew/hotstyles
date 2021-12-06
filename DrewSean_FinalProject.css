@@ -1,0 +1,150 @@
+.mainheader{
+	text-align: center;
+	font-size: 50px;
+}
+
+.subheader{
+	text-align: center;
+}
+
+.hat{
+	display: flex;
+	justify-content: space-around;
+}
+
+.jacket{
+	display: flex;
+	justify-content: space-around;
+}
+
+.shirt{
+	display: flex;
+	justify-content: space-around;
+}
+
+.jeans{
+	display: flex;
+	justify-content: space-around;
+}
+
+.shoes{
+	display: flex;
+	justify-content: space-around;
+}
+
+.costtext{
+	font: sans-serif;
+	font-size: 20px;
+}
+
+.productname{
+	font-size: 25px;
+}
+
+.navbar{
+	text-align: center;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.head{
+	text-align: center;
+}
+
+.pg1hatpic{
+	float: left;
+}
+
+.hattextpg1{
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 250px;
+}
+
+.realcostheader{
+	background-color: black;
+}
+
+.realcosttitle{
+	text-align: center;
+	color: red;
+	font-size: 50px;
+	padding-bottom: 30px;
+}
+
+.realcostbody{
+	color: white;
+}
+
+.realcostfooter{
+	background-color: red;
+}
+
+.nikerc{
+	background-color: black;
+}
+
+.nbp1{
+	display: flex;
+	justify-content: space-around;
+}
+
+.nikenav{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.adidasbad2{
+	max-height: 50%;
+	max-width: 50%;
+}
+
+.ab4{
+	max-width: 200%;
+	max-height: 200%;
+}
+
+.realcosttext{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.sheinshirt{
+	max-height: 50%;
+	max-width: 50%;
+	float: left;
+}
+
+.pg1jacketpic{
+	max-height: 50%;
+	max-width: 50%;
+	float: left;
+}
+
+.shoepic{
+	max-height: 50%;
+	max-width: 50%;
+	float: left;
+}
+
+.section1{;
+	background-color: lightgrey;
+}
+
+.section2{
+	background-color: lightgrey;
+
+}
+
+.section3{
+	background-color: lightgrey;
+}
+
+.section4{
+	background-color: lightgrey;
+}
+
+.section5{
+	background-color: lightgrey;
+}
